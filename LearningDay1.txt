@@ -1,0 +1,19 @@
+Day 1 of learning ML
+
+Instance Based Learning-No model training just storing training data and then whenever the predictions is to be made the neighbouring points are checked and then the predictions are made ,for eg k means .no generalization
+Model Based Learning- model is trained and generalization is brought to predictions, the data isnt stored
+
+Challenges in Machine Learning
+
+Insufficient data
+overfitting
+poor data
+biased data
+irrelevent features
+underfitting
+costs
+
+Tensors
+0D - 1 ( single number)
+1D/vector - {1,2,3,4,5}
+2D/Matrices 
