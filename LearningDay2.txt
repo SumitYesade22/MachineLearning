@@ -1,0 +1,11 @@
+EDA
+univariate 
+bivariate
+multivariate 
+
+Fetching data from
+
+csv
+json
+api
+web scraping
