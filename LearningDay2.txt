@@ -1,6 +1,15 @@
 EDA
-univariate 
-bivariate
+univariate -
+categroical data- countplot
+                  pie chart
+Numerical data - histogram
+                 displot(prob density func)
+                 boxplot
+
+bivariate-
+          scaterplot
+          barplot
+
 multivariate 
 
 Fetching data from
@@ -9,3 +18,4 @@ csv
 json
 api
 web scraping
+
