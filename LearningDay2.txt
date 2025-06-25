@@ -9,7 +9,9 @@ Numerical data - histogram
 bivariate-
           scaterplot
           barplot
-
+          heatmap
+          pairplot(a lot of scatterplots )
+          lineplot
 multivariate 
 
 Fetching data from
@@ -18,4 +20,19 @@ csv
 json
 api
 web scraping
+
+Feature Engineering 
+  
+feature tranformation-
+                     Feature Scaling
+                     minmax normalization- in range 0 to 1
+                    z score standardization-normal distribution
+
+                    Handling categorical values
+                    LabelEncoder- random values only for output
+                    OrdinalEncoder-priority wise low to high
+                    one hot encoding - for nominal data
+feature construction
+feature selection
+feature extraction
 
