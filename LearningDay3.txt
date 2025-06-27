@@ -1,0 +1,13 @@
+Columnar tranformation
+despite of applying ohe for nominal variabless on separate column , ordinal encoder for separate column, label encoder for 
+separate column and then merging it , we use column tranformation where a function that includes a list of transformers which is lists of tuples
+including the techniques , names and lists of columns 
+
+Machine Learning Pipelines
+here we create a pipeline of all the transformation with the ml model and then fit a data into it , this reduces the extraload of tranforming
+the input data of the model when the model is exported and used anywhere else.
+
+tansform function for normal distribution
+log tranform - use when the data is right skewed
+x square- use when the data is left skewed
+reciprocal
