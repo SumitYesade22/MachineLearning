@@ -1,0 +1,14 @@
+Transform function - Power Transform
+box cox tranform
+yeo johnson tranform
+
+Binning - to convert the numbers into categorical variabless (such as 1002 downloads as 1k+ downloads)(Kbins discretizer)
+uniform Binning-equal width
+quantile Binning-every bin contains 10% of the data of the entire data
+k means Binning
+custom Binning
+
+Binarization-to convert a numerical value into a categorical value(use lib Binarizer)
+eg- when the age is under 18 term as kid
+
+
