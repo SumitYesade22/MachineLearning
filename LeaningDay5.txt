@@ -1,0 +1,17 @@
+Regression metrics
+
+mean absolute error
+mean squared error
+root mean squared error
+r2score=1-sum of squared error in the regression line/sum of squared error in the mean line
+if score is 0.80 then we can say that the independent feature is able to explain the 80% of the variance of the output feature
+
+adjusted r2 score
+some of the extra feature tend to add more to r2score even if they are irrelevant 
+
+linear regression
+multiple regression
+gradient descent-optimization algorithm 
+                 batch descent(whole data for slope calc)
+                 stociastic(just one row at a time)
+                 mini batch(batches of data)
