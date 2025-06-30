@@ -1,0 +1,10 @@
+Model regularization techniques
+  ridge regression-L1
+  uses +alpha*slope square
+
+  lasso regression-L2
+  uses +alpha*slope mod
+
+  elastic net
+  uses both L2 and L1
+  
