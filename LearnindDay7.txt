@@ -1,0 +1,3 @@
+Logistic regression with multiple classes(mulitnomial)
+ we use softmax function which helps us to give the probability with respect to the every classes and the one with the highest is 
+ choosen 
