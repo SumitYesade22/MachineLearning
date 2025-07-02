@@ -1,3 +1,9 @@
 Logistic regression with multiple classes(mulitnomial)
  we use softmax function which helps us to give the probability with respect to the every classes and the one with the highest is 
  choosen 
+
+ decision tree classifier
+  it uses entropy and the information gain to split on the columns 
+  whhichever more the information gain is that spilt is further proccessed
+  
+ 
