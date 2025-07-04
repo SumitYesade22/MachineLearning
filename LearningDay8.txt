@@ -1,0 +1,14 @@
+Types of ensembling techniques
+voting-(all the model have same weight and the mean of every output is considered as the answer)
+bagging-random forest(same model but on different dataset)
+boosting-adaboost
+         gradient boost
+         xgboost
+
+stacking-(the models and assigned weights and then their output acts as an input to another algo which finally predicts the 
+output)
+
+bagging(bootstrapping and aggregation)-usually uses the row sampling with repeated rows
+        pasting-doesnt use common rows again
+        random subspaces-uses columns rather than rows for purpose
+        random patches-uses both the row and column sampling
