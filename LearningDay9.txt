@@ -1,0 +1,10 @@
+adaboost boosting algorithm 
+ in this case we create a large number of decision tree which are usually called as stumps as their max dept is 1 and then the dataset
+ is passed on onto the first stump then it predicts the points , the miss classified points are then boosted means their weight are
+ increased so that the next stump could give it more importance when making its boundaries .each of the stump is given with a 
+ alpha which is usually its say or imp in decision making.more the alpha is less is the error rate and its role in decision making
+ initally all the rows are given equal weight then increased or decreased using the error rate
+
+ after this step then the weights are normalized between 0 to 1 and then the are cumulatively added up to 1 for creating the range
+ hence after this random number is generated from 0 to 1 as the rows with heigher weights have large range the probablity
+ of them getting selected for more than one time increased in the dataset for next tree 

@@ -5,3 +5,8 @@ ml playlist(62 hours)-40 hours
 
 10th july-
 7 days()
+
+110 done and 50 hrs done
+
+pytorch-11 hours campusX
+
