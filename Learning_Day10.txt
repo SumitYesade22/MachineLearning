@@ -1,0 +1,17 @@
+handle the imbalance daata
+
+undersampling
+to sample the data from the majority classes 
+
+oversampling
+increase the count of the minority count equal to the majority count
+
+SMOTE
+synthetic minority oversampling techniques
+generation of the new data points rather than the duplication
+
+ensembling methods
+every random forest has balance set 
+
+cost sensitive Learning
+minority class are given more weight
